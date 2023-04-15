@@ -2,7 +2,7 @@
 
 Get started building ChatGPT plugins with this simple to-do list plugin. 
 
-Setup
+**Setup**
 * Clone the repository 
 * Change directory into the folder
 * Run `pip install -r requirements.txt` to install the necessary libraries
